@@ -4,3 +4,106 @@ Projeto coletivo do 3°MB de 2025 - Desesnvolvimento de Sistemas
 # Sobre o projeto
 
 O PortalDS é um site desenvolvido pela turma de desenvolvimento de sistemas focado em divulgar como o curso é por dentro, mostrando projetos já feitos, professores, alunos que já passaram pelo curso, notícias
+
+Com base no documento que você forneceu, aqui está um exemplo completo de um **README.md** bem estruturado para o repositório do projeto “Site Institucional - Desenvolvimento de Sistemas”:
+
+---
+
+# 🏫 Site Institucional - Portal DS
+
+Este repositório contém o projeto do **site institucional** do curso Técnico em Desenvolvimento de Sistemas. O objetivo do site é apresentar informações sobre o curso, alunos e professores, projetos desenvolvidos, notícias e demais conteúdos relevantes, com foco em organização, acessibilidade e responsividade.
+
+---
+
+## 📂 Estrutura do Projeto
+
+A estrutura do projeto foi cuidadosamente organizada para atender às diferentes equipes envolvidas. A seguir, uma visão geral:
+
+```
+
+Projeto-DS/
+│
+├── index.html               # Página principal
+├── noticias.html            # Notícias do curso
+├── egressos.html            # Mural de ex-alunos
+├── professores.html         # Lista de professores
+├── forum.html               # Fórum (versão inicial)
+├── projetos.html            # Portfólio de projetos
+├── projeto-detalhe.html     # Detalhes dos projetos
+├── contato.html             # Contato e mapa
+│
+├── /assets/
+│   ├── /css/                # Estilos (geral e por página)
+│   ├── /js/                 # Scripts JS gerais e específicos
+│   ├── /img/                # Imagens organizadas por categoria
+│   └── /fonts/              # Fontes personalizadas
+│
+├── /data/                   # Arquivos JSON com dados simulados
+├── /design/                 # Arquivos de UI/UX (wireframes, mockups)
+├── /docs/                   # Documentação do projeto
+│
+├── .gitignore
+└── package.json             # (Opcional) Dependências com npm
+
+````
+
+---
+
+## 🧠 Equipes e Responsabilidades
+
+### 👨‍💻 Front-End
+- Desenvolvimento das páginas HTML e scripts de interação.
+- Estrutura e responsividade da interface.
+- Diretórios: `*.html`, `/assets/js/`, `/assets/css/`.
+
+### 🎨 UI/UX Design
+- Criação de protótipos, mockups e identidade visual.
+- Diretório: `/design/`.
+
+### 🔧 Back-End / Dados
+- Criação e estruturação de arquivos JSON em `/data/`.
+- Conexão com Firebase (se necessário) via `firebase.js`.
+
+### ✍️ Conteúdo
+- Produção e revisão de textos das páginas.
+- Entrega via HTML ou arquivos na pasta `/docs/`.
+
+### 🧪 Integração / QA
+- Organização do repositório, controle de versão, testes e deploy.
+- Verificação de acessibilidade, SEO e funcionamento geral.
+
+---
+
+## 🛠 Tecnologias Utilizadas
+
+- **HTML5 / CSS3 / JavaScript**
+- **Firebase**
+- **Netlify / Vercel** (para deploy)
+- **Canva** (para design UI)
+
+---
+
+## 🚀 Como Rodar o Projeto
+
+1. Clone o repositório:
+
+```bash
+git clone https://github.com/seu-usuario/Projeto-DS.git
+cd Projeto-DS
+````
+
+2. Abra o `index.html` diretamente no navegador **ou** utilize um servidor local com extensão como Live Server no VSCode.
+
+---
+
+## 📄 Documentação
+
+* [`README.md`](./docs/README.md): Este arquivo.
+
+---
+
+## 📜 Licença
+
+Este projeto está sob a licença [MIT](LICENSE).
+
+---
