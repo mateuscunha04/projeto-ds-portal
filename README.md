@@ -1,15 +1,7 @@
-# PortalDS
-Projeto coletivo do 3°MB de 2025 - Desesnvolvimento de Sistemas
+# **PortalDS**
+Projeto coletivo do 3°MB do Colégio Estadual Doutor Gilberto Alves do Nascimento (Piraquara - PR) de 2025 - Desenvolvimento de Sistemas.
 
-# Sobre o projeto
-
-O PortalDS é um site desenvolvido pela turma de desenvolvimento de sistemas focado em divulgar como o curso é por dentro, mostrando projetos já feitos, professores, alunos que já passaram pelo curso, notícias
-
-Com base no documento que você forneceu, aqui está um exemplo completo de um **README.md** bem estruturado para o repositório do projeto “Site Institucional - Desenvolvimento de Sistemas”:
-
----
-
-# 🏫 Site Institucional - Portal DS
+# 🏫 Site Institucional
 
 Este repositório contém o projeto do **site institucional** do curso Técnico em Desenvolvimento de Sistemas. O objetivo do site é apresentar informações sobre o curso, alunos e professores, projetos desenvolvidos, notícias e demais conteúdos relevantes, com foco em organização, acessibilidade e responsividade.
 
@@ -78,8 +70,10 @@ Projeto-DS/
 
 - **HTML5 / CSS3 / JavaScript**
 - **Firebase**
-- **Netlify / Vercel** (para deploy)
-- **Canva** (para design UI)
+- **Netlify / Vercel**
+- **Canva**
+- **Mural**
+- **Trello**
 
 ---
 
@@ -98,12 +92,7 @@ cd Projeto-DS
 
 ## 📄 Documentação
 
-* [`README.md`](./docs/README.md): Este arquivo.
-
----
-
-## 📜 Licença
-
-Este projeto está sob a licença [MIT](LICENSE).
+* [`README.md`](README.md): Este arquivo.
+* [PULL_REQUEST_TEMPLATE](PULL_REQUEST_TEMPLATE): Arquivo que regula e orienta sobre o uso de Pull Requests no projeto, ele nos guiará na manutenção, controle e versionamento dos códigos.
 
 ---
