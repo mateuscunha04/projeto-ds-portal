@@ -93,6 +93,6 @@ cd Projeto-DS
 ## 📄 Documentação
 
 * [`README.md`](README.md): Este arquivo.
-* [PULL_REQUEST_TEMPLATE](PULL_REQUEST_TEMPLATE.md): Arquivo que regula e orienta sobre o uso de Pull Requests no projeto, ele nos guiará na manutenção, controle e versionamento dos códigos.
+* [`PULL_REQUEST_TEMPLATE`](PULL_REQUEST_TEMPLATE.md): Arquivo que regula e orienta sobre o uso de Pull Requests no projeto, ele nos guiará na manutenção, controle e versionamento dos códigos.
 
 ---
