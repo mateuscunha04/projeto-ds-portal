@@ -96,3 +96,78 @@ cd Projeto-DS
 * [`PULL_REQUEST_TEMPLATE`](PULL_REQUEST_TEMPLATE.md): Arquivo que regula e orienta sobre o uso de Pull Requests no projeto, ele nos guiará na manutenção, controle e versionamento dos códigos.
 
 ---
+## 🙌 Agradecimentos
+
+Este projeto foi realizado de forma colaborativa pelos alunos do **3º ano MB – Curso Técnico em Desenvolvimento de Sistemas (2025)** do **Colégio Estadual Doutor Gilberto Alves do Nascimento** – Piraquara/PR.
+
+Agradecemos o empenho e a dedicação de todos os integrantes das equipes, bem como o apoio dos professores e da instituição ao longo de todo o processo de desenvolvimento.
+
+### 🟡Equipe Design UI/UX - 2025
+
+- <a href="https://www.instagram.com/kauan.rez/">Manuela Algustinho</a> - Líder
+
+- <a href="https://www.instagram.com/kauan.rez/">Kamylle Victória</a> - Vice-Líder
+
+- <a href="https://www.instagram.com/kauan.rez/">Ana Julia</a>
+
+- <a href="https://www.instagram.com/kauan.rez/">Mikael Padilha</a>
+
+- <a href="https://www.instagram.com/kauan.rez/">Marco Antônio</a>
+
+### 🔵Equipe Conteúdo / Comunicação - 2025
+
+- <a href="https://www.instagram.com/kauan.rez/">Gustavo Alves</a> - Líder
+ 
+- <a href="https://www.instagram.com/kauan.rez/">Haniel da Gama</a> - Vice-Líder
+
+- <a href="https://www.instagram.com/kauan.rez/">Izabelle Deodato</a>
+
+- <a href="https://www.instagram.com/kauan.rez/">Cristiano Kuntope</a>
+
+- <a href="https://www.instagram.com/kauan.rez/">Marcos Leonardo</a>
+
+### 🔴Equipe Front-End - 2025
+
+- <a href="https://www.instagram.com/kauan.rez/">Beatrys Belo</a> - Líder
+
+- <a href="https://www.instagram.com/kauan.rez/">Miguel Machado</a> - Vice-Líder
+
+- <a href="https://www.instagram.com/kauan.rez/">Alexandre Alves</a>
+
+- <a href="https://www.instagram.com/kauan.rez/">Alexander Rodrigues</a>
+
+- <a href="https://www.instagram.com/kauan.rez/">Eduardo Alves</a>
+
+- <a href="https://www.instagram.com/kauan.rez/">Matheus Oliveira</a>
+
+- <a href="https://www.instagram.com/kauan.rez/">Eduardo Henrique</a>
+
+### 🟢Equipe Back-End / Dados - 2025
+
+- <a href="https://www.instagram.com/kauan.rez/">Nelson Kaua</a> - Líder
+
+- <a href="https://www.instagram.com/kauan.rez/">Cristopher Rian</a>
+
+- <a href="https://www.instagram.com/kauan.rez/">Arthur Radcheski</a>
+
+- <a href="https://www.instagram.com/kauan.rez/">João Vitor</a>
+
+- <a href="https://www.instagram.com/kauan.rez/">Lucas Kauã</a>
+
+- <a href="https://www.instagram.com/kauan.rez/">Weslei Felipe</a>
+
+- <a href="https://www.instagram.com/kauan.rez/">Nikolas Rocha</a>
+
+### 🟣Equipe Integração / QA - 2025
+
+- <a href="https://www.instagram.com/kauan.rez/">Mateus Henrique</a> - Líder
+
+- <a href="https://www.instagram.com/kauan.rez/">Kauan Henrique</a> - Vice-Líder
+
+- <a href="https://www.instagram.com/kauan.rez/">Nycolas Ferreira</a>
+
+- <a href="https://www.instagram.com/kauan.rez/">Guilherme do Nascimento</a>
+
+### SCRUM MASTER
+
+- <a href="https://www.instagram.com/math_foltts/">Professor Matheus Foltran</a>
