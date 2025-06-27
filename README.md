@@ -146,7 +146,7 @@ Agradecemos o empenho e a dedicação de todos os integrantes das equipes, bem c
 
 - <a href="https://www.instagram.com/kauan.rez/">Nelson Kaua</a> - Líder
 
-- <a href="https://www.instagram.com/kauan.rez/">Cristopher Rian</a>
+- <a href="https://www.instagram.com/kauan.rez/">Cristopher Rian</a> - Vice-Líder
 
 - <a href="https://www.instagram.com/kauan.rez/">Arthur Radcheski</a>
 
