@@ -176,4 +176,4 @@ Agradecemos o empenho e a dedicação de todos os integrantes das equipes, bem c
 
 - <a href="https://www.instagram.com/math_foltts/">Professor Esdras Costa</a> - Ágile Coach
 
-- <a href="https://www.instagram.com/math_foltts/">Professor Eleciana Pereira</a> Product Owner
+- <a href="https://www.instagram.com/math_foltts/">Professor Eleciana Pereira</a> - Product Owner
