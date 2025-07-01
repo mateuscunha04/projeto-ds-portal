@@ -104,7 +104,7 @@ Agradecemos o empenho e a dedicação de todos os integrantes das equipes, bem c
 
 ### 🟡Equipe Design UI/UX - 2025
 
-- <a href="https://www.instagram.com/kauan.rez/">Manuela Algustinho</a> - Líder
+- <a href="https://www.instagram.com/kauan.rez/">Manuela Augustinho</a> - Líder
 
 - <a href="https://www.instagram.com/kauan.rez/">Kamylle Victória</a> - Vice-Líder
 
