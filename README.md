@@ -168,6 +168,12 @@ Agradecemos o empenho e a dedicação de todos os integrantes das equipes, bem c
 
 - <a href="https://www.instagram.com/kauan.rez/">Guilherme do Nascimento</a>
 
-### SCRUM MASTER
+### 👨‍🏫 Profesores - 2025
 
-- <a href="https://www.instagram.com/math_foltts/">Professor Matheus Foltran</a>
+- <a href="https://www.instagram.com/math_foltts/">Professor Matheus Foltran</a> - Scrum Master
+
+- <a href="https://www.instagram.com/math_foltts/">Professora Hilda Duminhaki</a> - Content Advisor
+
+- <a href="https://www.instagram.com/math_foltts/">Professor Esdras Costa</a> - Ágile Coach
+
+- <a href="https://www.instagram.com/math_foltts/">Professor Eleciana Pereira</a> Product Owner
