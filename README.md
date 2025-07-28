@@ -132,7 +132,7 @@ Agradecemos o empenho e a dedicação de todos os integrantes das equipes, bem c
 
 - <a href="https://www.instagram.com/kauan.rez/">Miguel Machado</a> - Vice-Líder
 
-- <a href="https://www.instagram.com/kauan.rez/">Alexandre Alves</a>
+- <a href="insta">Alexandre Alves</a>
 
 - <a href="https://www.instagram.com/kauan.rez/">Alexander Rodrigues</a>
 
