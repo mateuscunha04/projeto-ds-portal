@@ -146,7 +146,7 @@ Agradecemos o empenho e a dedicação de todos os integrantes das equipes, bem c
 
 - <a href="https://www.instagram.com/kauan.rez/">Nelson Kaua</a> - Líder
 
-- <a href="https://www.instagram.com/kauan.rez/">Cristopher Rian</a> - Vice-Líder
+- <a href="https://www.linkedin.com/in/cristopher-rian-984bb8309/">Cristopher Rian</a> - Vice-Líder
 
 - <a href="https://www.instagram.com/kauan.rez/">Arthur Radcheski</a>
 
@@ -160,11 +160,11 @@ Agradecemos o empenho e a dedicação de todos os integrantes das equipes, bem c
 
 ### 🟣Equipe Integração / QA - 2025
 
-- <a href="https://www.instagram.com/kauan.rez/">Mateus Henrique</a> - Líder
+- <a href="https://www.linkedin.com/in/mateus-cunha-4858b1320/">Mateus Henrique</a> - Líder
 
 - <a href="https://www.instagram.com/kauan.rez/">Kauan Henrique</a> - Vice-Líder
 
-- <a href="https://www.instagram.com/kauan.rez/">Nycolas Ferreira</a>
+- <a href="insta">Nycolas Ferreira</a>
 
 - <a href="https://www.instagram.com/kauan.rez/">Guilherme do Nascimento</a>
 
