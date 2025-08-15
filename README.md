@@ -108,7 +108,7 @@ Agradecemos o empenho e a dedicação de todos os integrantes das equipes, bem c
 
 - <a href="https://www.instagram.com/kauan.rez/">Kamylle Victória</a> - Vice-Líder
 
-- <a href="https://www.instagram.com/kauan.rez/">Ana Julia</a>
+- <a href="https://www.linkedin.com/in/ana-julia-soares-519aa4320/">Ana Julia</a>
 
 - <a href="https://www.instagram.com/kauan.rez/">Mikael Padilha</a>
 
@@ -116,7 +116,7 @@ Agradecemos o empenho e a dedicação de todos os integrantes das equipes, bem c
 
 ### 🔵Equipe Conteúdo / Comunicação - 2025
 
-- <a href="https://www.instagram.com/kauan.rez/">Gustavo Alves</a> - Líder
+- <a href="https://www.instagram.com/goncalves_gustavoalves/">Gustavo Alves</a> - Líder
  
 - <a href="https://www.instagram.com/kauan.rez/">Haniel da Gama</a> - Vice-Líder
 
@@ -148,7 +148,7 @@ Agradecemos o empenho e a dedicação de todos os integrantes das equipes, bem c
 
 - <a href="https://www.linkedin.com/in/cristopher-rian-984bb8309/">Cristopher Rian</a> - Vice-Líder
 
-- <a href="https://www.instagram.com/kauan.rez/">Arthur Radcheski</a>
+- <a href="https://www.instagram.com/arthu_r.p/">Arthur Radcheski</a>
 
 - <a href="https://www.instagram.com/kauan.rez/">João Vitor</a>
 
@@ -176,4 +176,4 @@ Agradecemos o empenho e a dedicação de todos os integrantes das equipes, bem c
 
 - <a href="https://www.instagram.com/math_foltts/">Professor Esdras Costa</a> - Ágile Coach
 
-- <a href="https://www.instagram.com/math_foltts/">Professor Eleciana Pereira</a> - Product Owner
+- <a href="https://www.instagram.com/math_foltts/">Professor Eliciana Pereira</a> - Product Owner
