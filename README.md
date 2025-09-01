@@ -112,7 +112,7 @@ Agradecemos o empenho e a dedicação de todos os integrantes das equipes, bem c
 
 - <a href="https://www.instagram.com/kauan.rez/">Mikael Padilha</a>
 
-- <a href="https://www.instagram.com/kauan.rez/">Marco Antônio</a>
+- <a href="https://www.linkedin.com/in//">Marco Antônio</a>
 
 ### 🔵Equipe Conteúdo / Comunicação - 2025
 
@@ -128,7 +128,7 @@ Agradecemos o empenho e a dedicação de todos os integrantes das equipes, bem c
 
 ### 🔴Equipe Front-End - 2025
 
-- <a href="https://www.instagram.com/kauan.rez/">Beatrys Belo</a> - Líder
+- <a href="https://www.linkedin.com/in/beatrys-belo-a1b488213/">Beatrys Belo</a> - Líder
 
 - <a href="https://www.instagram.com/kauan.rez/">Miguel Machado</a> - Vice-Líder
 
@@ -140,7 +140,7 @@ Agradecemos o empenho e a dedicação de todos os integrantes das equipes, bem c
 
 - <a href="https://www.instagram.com/kauan.rez/">Matheus Oliveira</a>
 
-- <a href="https://www.instagram.com/kauan.rez/">Eduardo Henrique</a>
+- <a href="https://www.instagram.com/eduhslv15/">Eduardo Henrique</a>
 
 ### 🟢Equipe Back-End / Dados - 2025
 
